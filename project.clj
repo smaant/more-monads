@@ -1,4 +1,4 @@
-(defproject truckerpath/more-monads "0.1.0-SNAPSHOT"
+(defproject truckerpath/more-monads "0.2.0-SNAPSHOT"
   :description "Additional monads for clojure.algo.monads"
   :url "https://github.com/truckerpathteam/more-monads"
   :license {:name "MIT License"
